@@ -15,5 +15,5 @@ This project does not use any JavaScript or frameworks, keeping it lightweight a
 
 💻 How to Use
 Clone the repository
-git clone https://github.com/RaginiSingh2024/Resume-HTML-CSS-git.git
+git clone https://github.com/RaginiSingh2024/Resume-HTML-css--main-git.git
 
